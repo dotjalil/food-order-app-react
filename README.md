@@ -1,5 +1,7 @@
 # food-order-app-react
 
+![Food Order App Screenshot](/src/assets/Screenshot.png)
+
 This is a practice project
 
 I used ReactJS with features like: states, reducers, hooks, effects, contexts, props, portals, and styled components.
